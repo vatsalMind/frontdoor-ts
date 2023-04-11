@@ -66,36 +66,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-# Frontdoor (Backend)
-
-This Project Contains APIs for Give get.
-
-![Node Version](https://img.shields.io/badge/Node-v16.14.0-yellow)
-![npm Version](https://img.shields.io/badge/NPM-v8.3.1-lightgrey)
-![NestJs Version](https://img.shields.io/badge/Nest-red)
-
-
-## Features
-
-- NestJS
-- MongoDB
-
-### Step for the config the project:
-
-Update env file variable 
- ```
- OPENAI_API_KEY=*******
- ORGANIZATION_ID=*******
- ```
-
-Install all the dependency 
-``` 
-npm install
-```
-
-Run the server
-```
-npm start
-```
